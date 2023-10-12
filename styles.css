@@ -58,7 +58,7 @@ h1,h2,h3,h6{
   left:35px;
 }
 #man{
-  background-image: url(images/bimage1.png);
+  background-image: url(bimage1.png);
   height: 80vh;
   width: 95%;
   background-position: top 0% left 5%;
@@ -94,7 +94,7 @@ h1,h2,h3,h6{
   color:black;
 }
 #man button{
-  background-image: url("images/Black-Splash-Image-PNG_g2rz2w.png");
+  background-image: url("Black-Splash-Image-PNG_g2rz2w.png");
   background-color: transparent;
   color: grey;
   font: 900;
